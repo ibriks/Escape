@@ -1,4 +1,8 @@
 # Escape
-Use navigation buttons to exit a maze
+Use navigation buttons to exit a simple maze
 
-![Alt text](/Gameplay_key.png?raw=true "Optional Title")
+![](/Gameplay_key.png?raw=true "Gameplay key")
+Collect yellow key
+
+![](/Gameplay_door.png?raw=true "Gameplay door")
+Get to the blue door
